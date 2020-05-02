@@ -1,0 +1,6 @@
+Project Number: 		1
+Customer name: 			Berto Swanepoel
+Customer Telephone Number: 	0123456789
+Customer Email Address: 	swanie@gmail.com
+Customer Address: 		29 tenth avenue villas
+Total amount outstanding: 	20000.0
